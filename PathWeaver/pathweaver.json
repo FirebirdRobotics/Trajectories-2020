@@ -1,0 +1,8 @@
+{
+  "lengthUnit": "Meter",
+  "maxVelocity": 1.5,
+  "maxAcceleration": 5.0,
+  "wheelBase": 0.82,
+  "gameName": "Infinite Recharge",
+  "outputDir": "../../../../../New FRC"
+}
